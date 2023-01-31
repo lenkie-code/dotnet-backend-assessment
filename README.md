@@ -26,6 +26,6 @@ For books that are reserved / currently borrowed out, customers should be able t
 
 ### What Tools Can You Use?
 
-Use this opportunity to showcase your understanding of software architecture and  .NET Core.
-You may use whatever persistent storage you think is best. 
-Demonstrate your understanding of OAuth and how it can be used to secure APIs. You can use your own Identity Server or leverage an existing one.
+- Use this opportunity to showcase your understanding of software architecture and  .NET Core.
+- You may use whatever persistent storage you think is best. 
+- Demonstrate your understanding of OAuth and how it can be used to secure APIs. You can use your own Identity Server or leverage an existing one.
