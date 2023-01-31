@@ -16,15 +16,15 @@ Her grandson has a lot of experience with building web applications and has volu
 
 In your implementation, take into account the following key details:
 
-- Authentication & Authorization: Since the application will most likely store customer data, some security constraints must be enforced on who has access to the data.
-- API Documentation: The application should run on any device, documenting the API would be important as it would allow any frontend engineer to make the app available to customers using different devices.
+- **Authentication & Authorization**: Since the application will most likely store customer data, some security constraints must be enforced on who has access to the data.
+- **API Documentation**: The application should run on any device, documenting the API would be important as it would allow any frontend engineer to make the app available to customers using different devices.
 
 
-Bonus:
+### Bonus:
 
 For books that are reserved / currently borrowed out, customers should be able to request to be notified once the book is now available in the library. In this initial iteration, the notification could be persisted in some notifications table / storage at the time the book becomes available.
 
-What Tools Can You Use?
+### What Tools Can You Use?
 
 Use this opportunity to showcase your understanding of software architecture and  .NET Core.
 You may use whatever persistent storage you think is best. 
